@@ -13,11 +13,11 @@ _Este proyecto es una aplicación de consola que permite convertir diversas mone
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/tu-usuario/conversor-de-monedas.git
-Abrir el proyecto en IntelliJ IDEA:
 
-2. **Abrir IntelliJ IDEA.**
-Seleccionar File > Open y elegir la carpeta del proyecto clonado.
-Agregar la dependencia de JSON:
+2. **Abrir el proyecto en IntelliJ IDEA:**
+- Abrir IntelliJ IDEA.
+- Seleccionar File > Open y elegir la carpeta del proyecto clonado.
+- Agregar la dependencia de JSON:
 
 3. **Ve a MVNRepository - json-simple y descarga el archivo JAR.**
 En IntelliJ, ve a File > Project Structure > Libraries.
