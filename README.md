@@ -57,6 +57,6 @@ Simplemente asegúrate de tener los pre-requisitos instalados y sigue los pasos 
 
 ***Mervis Bolivar*** - Desarrollador Principal
 
-### AGRADECIMIENTOS:
+### Agradecimientos:
 Quiero dar las gracias públicamente 🎁 a Génesys Rondón🤓 y Bruno Darío Fernández Ellerbach🤓 de Alura Latam.
 Comenta a otros sobre este proyecto, por favor ✌️📢
