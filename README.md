@@ -6,7 +6,7 @@ _Este proyecto es una aplicación de consola que permite convertir diversas mone
 
 - Java Development Kit (JDK) 11 o superior
 - IntelliJ IDEA u otro IDE de Java
-- Conexión a internet para acceder a la API de tasas de cambio (utilizada aquí: https://www.exchangerate-api.com/)
+- Conexión a internet para acceder a la API de tasas de cambio (yo utilicé: https://www.exchangerate-api.com/)
 
 ### Instalación 🔧
 
