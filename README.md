@@ -49,9 +49,9 @@ Simplemente asegúrate de tener los pre-requisitos instalados y sigue los pasos 
 
 Construido con 🛠️
 
-Java - Lenguaje de programación
-IntelliJ IDEA - Entorno de desarrollo integrado (IDE)
-json-simple - Biblioteca para manejar JSON
+- Java - Lenguaje de programación
+- IntelliJ IDEA - Entorno de desarrollo integrado (IDE)
+- json-simple - Biblioteca para manejar JSON
 
 Autor ✒️
 
