@@ -55,7 +55,7 @@ json-simple - Biblioteca para manejar JSON
 
 Autor ✒️
 
-Mervis Bolivar - Desarrollador Principal -
+# Mervis Bolivar - Desarrollador Principal -
 
 Quiero dar las gracias públicamente 🎁 a Génesys Rondón🤓 y Bruno Darío Fernández Ellerbach🤓 de Alura Latam.
 Comenta a otros sobre este proyecto, por favor ✌️📢
