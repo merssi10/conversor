@@ -15,20 +15,20 @@ _Este proyecto es una aplicación de consola que permite convertir diversas mone
    git clone https://github.com/tu-usuario/conversor-de-monedas.git
 Abrir el proyecto en IntelliJ IDEA:
 
-2. Abrir IntelliJ IDEA.
+2. **Abrir IntelliJ IDEA.**
 Seleccionar File > Open y elegir la carpeta del proyecto clonado.
 Agregar la dependencia de JSON:
 
-3. Ve a MVNRepository - json-simple y descarga el archivo JAR.
+3. **Ve a MVNRepository - json-simple y descarga el archivo JAR.**
 En IntelliJ, ve a File > Project Structure > Libraries.
 Haz clic en +, selecciona Java, y añade el archivo JAR descargado.
 Configurar tu clave de API:
 
-4. Regístrate en Exchange Rate API para obtener una clave de API gratuita.
+4. **Regístrate en Exchange Rate API para obtener una clave de API gratuita.**
 Reemplaza YOUR_API_KEY en el código por tu clave de API.
 Ejecutar el proyecto:
 
-5. En IntelliJ, selecciona la clase Main y ejecuta el programa.
+5. **En IntelliJ, selecciona la clase Main y ejecuta el programa.**
 
 Ejecutando las pruebas ⚙️
 
