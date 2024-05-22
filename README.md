@@ -28,34 +28,35 @@ Configurar tu clave de API:
 Reemplaza YOUR_API_KEY en el código por tu clave de API.
 Ejecutar el proyecto:
 
-5. **En IntelliJ, selecciona la clase Main y ejecuta el programa.**
+5. **En IntelliJ**, selecciona la clase Main y ejecuta el programa.
 
-Ejecutando las pruebas ⚙️
+### Ejecutando las pruebas ⚙️
 
-Analizar las pruebas end-to-end 🔩
+**Analizar las pruebas end-to-end** 🔩
 
 - Verifican que el flujo completo de conversión de monedas funcione correctamente.
 - Aseguran que las tasas de cambio se obtienen correctamente de la API.
 
-Pruebas de estilo de codificación ⌨️
+**Pruebas de estilo de codificación** ⌨️
 
 - Verifican que el código sigue las convenciones de estilo y buenas prácticas de Java.
 - Aseguran la legibilidad y mantenibilidad del código.
 
-Despliegue 📦
+**Despliegue** 📦
 
 Este proyecto es una aplicación de consola y no requiere despliegue en un servidor.
 Simplemente asegúrate de tener los pre-requisitos instalados y sigue los pasos de instalación para ejecutarlo localmente.
 
-Construido con 🛠️
+**Construido con** 🛠️
 
 - Java - Lenguaje de programación
 - IntelliJ IDEA - Entorno de desarrollo integrado (IDE)
 - json-simple - Biblioteca para manejar JSON
 
-Autor ✒️
+**Autor** ✒️
 
-**Mervis Bolivar** - Desarrollador Principal
+***Mervis Bolivar*** - Desarrollador Principal
 
+### AGRADECIMIENTOS:
 Quiero dar las gracias públicamente 🎁 a Génesys Rondón🤓 y Bruno Darío Fernández Ellerbach🤓 de Alura Latam.
 Comenta a otros sobre este proyecto, por favor ✌️📢
